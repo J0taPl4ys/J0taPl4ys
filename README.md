@@ -1,7 +1,9 @@
 ## Hi there! 👋
 # Would you like to sign my petition? 👽
 *Just Kidding*. I'm João Gabriel, welcome to my profile.
-- Well, I'm trying to learn something about programming and that's it!
+- I'm trying to learn something about programming and that's it! Wanna take a look?
+
+          
 <!--
 **J0taPl4ys/J0taPl4ys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
